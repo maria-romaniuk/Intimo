@@ -1,0 +1,12 @@
+.breadcrumbs{
+
+}
+.breadcrumbs__link{
+    font-size: 1.2em;
+    color: #696868;
+    text-decoration: none;
+
+}
+.breadcrumbs__link:hover{
+    text-decoration: underline;
+}
